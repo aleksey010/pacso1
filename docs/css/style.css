@@ -1023,7 +1023,7 @@ main {
                 background: -o-linear-gradient(left, rgba(255, 255, 255, 0.5), #fff 100%);
                 background: linear-gradient(to right, rgba(255, 255, 255, 0.5), #fff 100%); }
           main .row .block-posts .posts-container .buttom-post .post-image {
-            height: 50%; }
+            height: 400px; }
         @media screen and (max-width: 450px) {
           main .row .block-posts .posts-container .buttom-post {
             display: block; }
